@@ -20,12 +20,14 @@
 
 <div>
   <h3>
-  Embedded System Engineer (2018.11 ~)
+  Embedded Team Lead (2018.11 ~)
   </h3>
   <ul>
-    <li>Embedded System Engineer in IoT industry(Monitoring & Control System)</li>
-    <li>Controlled peripherals based on STM32, NRF52, ESP32, Arduino and Raspberry pi</li>
-    <li>Implemented drivers of communication which use such as BLE profile and MQTT with LTE-M</li>
+    <li>Embedded System Engineer in IoT industry(Monitoring & Control System based on AWS & GCP)</li>
+    <li>Controlled peripherals(acc, camera, modem, etc..) based on STM32, NRF52, ESP32, Arduino and Raspberry pi</li>
+    <li>Implemented drivers of communication which use such as BLE profile and MQTT based on LTE-M</li>
+    <li>Gathering and preprocessing of acceleration data</li>
+    <li>Implementing of algorithm which measure similarity and risk</li>
     <li>C/C++, Assembly, Python</li>
   </ul>
 </div>
