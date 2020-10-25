@@ -34,6 +34,8 @@
   </ul>
 </div>
 
+Check the link below for more information!
+
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zester926.github.io/)](https://zester926.github.io/)
