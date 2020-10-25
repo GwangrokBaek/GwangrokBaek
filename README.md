@@ -20,7 +20,7 @@
 
 <div>
   <h3>
-  Embedded Team Lead (2018.11 ~)
+  Embedded System Engineer (2018.11 ~)
   </h3>
   <ul>
     <li>Embedded System Engineer in IoT industry(Monitoring & Control System based on AWS & GCP)</li>
