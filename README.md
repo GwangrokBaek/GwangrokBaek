@@ -11,6 +11,14 @@
 </div>
 
 <div>
+  <h3>🙋‍♂️</h3>
+  <p>Hi guys, I'm <b>GwangRok Baek</b> and I prefer to be called as <b>phil</b>!</p>
+  <p>I've been an <b>Embedded System Engineer</b> for about two years. I became interested in low-level programming because the process of decoding and executing various     commands in cpu seemed to uncover the secrets of the computer.</p>
+  <p>These days, <b>I am interested in ML/DL</b> so I am learning mainly on <b>on-device AI</b> and <b>lightweight AI models.</b> And these experiences in AI <b>make me plan to switch the job from Embedded System Engineer to ML Engineer.</b>😁</p>
+
+</div>
+
+<div>
   <h3>
   Embedded System Engineer (2018.11 ~)
   </h3>
@@ -34,7 +42,9 @@
   </ul>
 </div>
 
-Check the link below for more information!
+<div align=center>
+  <h4>Check the link below for more information!</h4>
+</div>
 
 <div align=center>
 
