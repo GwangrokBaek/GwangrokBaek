@@ -20,7 +20,7 @@
 
 <div>
   <h3>
-  Embedded System Engineer (2018.11 ~ 2020.12)
+  Embedded System Engineer (2018.11 ~ 2020.12) | CEEDUP Inc.
   </h3>
   <ul>
     <li>Embedded System Engineer in IoT industry(Monitoring & Control System based on AWS & GCP)</li>
