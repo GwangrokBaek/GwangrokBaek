@@ -36,7 +36,7 @@
     Interest
   </h3>
   <ul>
-    <li>On-device AI(the deployment of AI technology to embedded divice)</li>
+    <li>On-device AI(the deployment of AI technology to the embedded divice)</li>
     <li>ML/DL(lightweight deeplearning such as quantization, pruning, etc)</li>
     <li>Data Engineering</li>
     <li>Google Cloud Platform</li>
