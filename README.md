@@ -27,7 +27,7 @@
     <li>Controlled peripherals(acc, camera, modem, etc..) based on STM32, NRF52, ESP32, Arduino and Raspberry pi</li>
     <li>Implemented drivers of communication which use such as BLE profile and MQTT based on LTE-M</li>
     <li>Gathering and preprocessing of acceleration data</li>
-    <li>Implementing of algorithm which measure similarity and risk</li>
+    <li>Implementing of algorithm which measures similarity and risk</li>
     <li>C/C++, Assembly, Python</li>
   </ul>
 </div>
