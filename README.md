@@ -24,7 +24,7 @@
   </h3>
   <ul>
     <li>Embedded System Engineer in IoT industry(Monitoring & Control System based on AWS & GCP)</li>
-    <li>Controlled peripherals(acc, camera, modem etc..) based on STM32, NRF52, ESP32, Arduino and Raspberry pi</li>
+    <li>Controlled peripherals(acc, camera, modem etc..) based on STM32, NRF52, Arduino and Raspberry pi</li>
     <li>Implemented communication driver utilizing BLE profile and MQTT based on LTE-M</li>
     <li>Data collection and pre-processing</li>
     <li>Implemented similarity and risk measurement algorithm based on mathematical statistics</li>
