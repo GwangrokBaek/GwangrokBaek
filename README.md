@@ -31,7 +31,7 @@
     <li>Implemented communication driver utilizing BLE profile and MQTT based on LTE-M</li>
     <li>Data collection and pre-processing</li>
     <li>Implemented similarity and risk measurement algorithm based on mathematical statistics</li>
-    <li>TensorFlow, GCP, AWS, Python, SQLm C/C++, Assembly, Linux/Ubuntu, GCC/G++, TDD, nRF, STM, Arduino, raspberry pi </li>
+    <li>TensorFlow, GCP, AWS, Python, SQL, C/C++, Assembly, Linux/Ubuntu, GCC/G++, TDD, nRF, STM, Arduino, raspberry pi </li>
   </ul>
 </div>
 <div>
