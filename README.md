@@ -17,7 +17,6 @@
   <h3>🙋🏻‍♂️</h3>
   <p>Hi guys, I'm <b>GwangRok Baek</b> and I prefer to be called as <b>phil</b>!</p>
   <p>I've been an <b>Embedded System Engineer</b> for about two years. I became interested in low-level programming because the process of decoding and executing various     commands in cpu seemed to uncover the secrets of the computer.</p>
-  <p>These days, <b>I'm looking forward to work as DL engineer</b>, especially with <b>lightweight / mobile deep learning models.</b> I decided to change my career from the embedded system to deep learning, thinking that a new challenge in the field of deep learning with infinite potential is a valuable research that can change the world. Of course, deep learning isn't a magic tool that solves everything, but it's already exceeding expectations in some applicable fields, and I think it will make a big difference in the edge systems market now. In this situation, I would like to contribute to the development of lightweight models by efficiently implementing model compression technology using my embedded knowledge. This is why I decided to challenge deep learning. 😁</p>
 
 </div>
 
@@ -31,18 +30,7 @@
     <li>Implemented communication driver utilizing BLE profile and MQTT based on LTE-M</li>
     <li>Data collection and pre-processing</li>
     <li>Implemented similarity and risk measurement algorithm based on mathematical statistics</li>
-    <li>TensorFlow, GCP, AWS, Python, SQL, C/C++, Assembly, Linux/Ubuntu, GCC/G++, TDD, nRF, STM, Arduino, raspberry pi </li>
-  </ul>
-</div>
-<div>
-  <h3>
-    Interest
-  </h3>
-  <ul>
-    <li>Lightweight / mobile deeplearning</li>
-    <li>Data Engineering based on clouds</li>
-    <li>Dats structure and Algorithm</li>
-    <li>Miracle morning and Meditation</li>
+    <li>TensorFlow, GCP, AWS, Python, SQL, C language, Linux/Ubuntu, GCC/G++, TDD, nRF, Arduino, raspberry pi </li>
   </ul>
 </div>
 
