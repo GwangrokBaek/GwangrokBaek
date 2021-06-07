@@ -22,6 +22,10 @@
 
 <div>
   <h3>
+  IoT HW Firmware Developer (2021.06 ~ ) | ZIGBANG Inc.
+  </h3>
+  
+  <h3>
   Embedded System Engineer (2018.11 ~ 2020.12) | CEEDUP Inc.
   </h3>
   <ul>
